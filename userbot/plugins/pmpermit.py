@@ -13,10 +13,9 @@ PREV_REPLY_MESSAGE = {}
 MESAG = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "`I mostly Approve PM's\n\n**Until then Contact me through my Channel's Discussion Group! @Royal_Giveaway**"
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = "`You were spamming the Pro, Ninja Naveen's inbox, henceforth you have been blocked by my master's userbot.` "
-USER_BOT_NO_WARN = ("Hello This is Ninja Naveen's Userbot](tg://user?id=953414679)\n\n"
-                    "`I haven't Approved you to PM yet.**\n"
-                    "**Please Wait for me to look in and Approve your PM. "
-                    f"{DEFAULTUSER}'s inbox**.\n\n"
+USER_BOT_NO_WARN = ("Hello This is Ninja Naveen's Userbot)\n\n"
+                    "`I haven't Approved you to PM yet.\n"
+                    "Please Wait for me to look in and Approve your PM. "
                     f"{MESAG}"
                     "\n\n**Until Then, Don't Spam my PM, you'll get blocked!**")
 
