@@ -8,13 +8,14 @@ from userbot.utils import admin_cmd
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-INDIANBOT_IS_ALIVE = ("**Apun Zinda He Sarr ^.^** \n`🇮🇳BOT Status : ` **☣Hot**\n\n"
-                     f"`My peru owner`: {DEFAULTUSER}\n\n"
-                     "`Indian Bot Version:` [1.0](https://telegra.ph/INDIAN-06-15-6)\n`Python:` **3.7.4**\n"
-                     "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
+INDIANBOT_IS_ALIVE = ("**Ninja Naveen's Userbot** \nBOT Status : ` **`Pro Like Ninja Naveen**\n\n"
+                     f"`My Pro owner`: {DEFAULTUSER}\n\n"
+                     "`Bot Version:` [1.0](NinjaHackers.tk)\n`Python:` **3.7.4**\n"
+                     "`Database Status:` **ALL OK**\n\n`Ninja Naveen's Pro Userbot\n`"
                      "**Bot Creator:** [🇮🇳INDIAN BHAI](t.me/pureindialover)\n"
                      "**Co-Owner:** [🇮🇳AKASH](t.me/AKASH_AM1)\n\n"
-                     "     [🇮🇳Deploy This IndianBot🇮🇳](https://github.com/indianbhaiya/IndianBot)") 
+                     "**Modified By:** [Ninja Naveen](t.me/ninjanaveen)\n\n"
+                     "     [🇮🇳Deploy This Bot](https://github.com/ninjanaveen/IndianBot)") 
 
 
 #@command(outgoing=True, pattern="^.alive$")
