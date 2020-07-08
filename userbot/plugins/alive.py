@@ -8,14 +8,15 @@ from userbot.utils import admin_cmd
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-INDIANBOT_IS_ALIVE = ("**Ninja Naveen's Userbot** \nBOT Status : ` `Pro Like Ninja Naveen**\n\n"
+ALIVE_IMG = "https://telegra.ph/file/27932853966c10bede626.png"
+INDIANBOT_IS_ALIVE = ("**Ninja Naveen's Userbot** \nBOT Status : `Pro Like Ninja Naveen`\n\n"
                      f"`My Pro owner`: {DEFAULTUSER}\n\n"
-                     "`Bot Version:` [1.0](NinjaHackers.tk)\n`Python:` **3.7.4**\n"
+                     "**NinjaBot Version** : `3.14`\n"
                      "`Database Status:` **ALL OK**\n\n`Ninja Naveen's Pro Userbot\n`"
-                     "**Bot Creator:** [🇮🇳INDIAN BHAI](t.me/pureindialover)\n"
-                     "**Co-Owner:** [🇮🇳AKASH](t.me/AKASH_AM1)\n\n"
-                     "**Modified By: [Ninja Naveen](t.me/ninjanaveen)\n\n"
-                     "     [🇮🇳Deploy This Bot](https://github.com/ninjanaveen/IndianBot)") 
+                     "**Database** : `All Set and are Working Flawlessly!`\n\n"
+                     "**Join the Bot Creator's Channel** : [💠Royal Giveaways💠](t.me/royal_giveaway)\n\n"
+                     "**USERBOT By** [🔥Ninja Naveen🔥](t.me/NinjaNaveen)\n\n"
+                     "[Deploy Ninja Bot](https://heroku.com/deploy?template=https://github.com/ninjanaveen/fridayuserbot)" 
 
 
 #@command(outgoing=True, pattern="^.alive$")
