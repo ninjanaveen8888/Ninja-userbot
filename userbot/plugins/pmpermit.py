@@ -10,12 +10,12 @@ from userbot.utils import admin_cmd
 PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
 
-MESAG = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "`I mostly Approve PM's`\n\n**Until then Contact me through my Channel's Discussion Group! @Royal_Giveaway**"
+MESAG = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else " He is Quite Busy in Some Work, Thankyou! "
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-USER_BOT_WARN_ZERO = "`You were spamming the Pro, Ninja Naveen's inbox, henceforth you have been blocked by my master's userbot.` "
-USER_BOT_NO_WARN = ("Hello This is Ninja Naveen's Userbot\n\n"
-                    "`I haven't Approved you to PM yet.\n"
-                    "Please Wait for me to look in and Approve your PM. "
+USER_BOT_WARN_ZERO = "`Nai Mana Tu Le Salle Ban Kha` "
+USER_BOT_NO_WARN = ("Hello This is Drake's Userbot\n\n"
+                    "`He is Very Offline.\n"
+                    "Just Leave Your Message"
                     f"{MESAG}"
                     "\n\n**Don't Spam my PM, you'll get blocked!**")
 
