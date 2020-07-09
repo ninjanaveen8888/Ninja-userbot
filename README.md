@@ -1,24 +1,22 @@
-# IndianBot The UserBot 🇮🇳
+# Ninja UserBot
 
 <p align="center">
-<img src="logo.jpg" alt="indian Bot">
+<img src="https://telegra.ph/file/27932853966c10bede626.png" alt="NINJABOT USERBOT">
 
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
 
 ## By Team IndianBot 🇮🇳
 
-For any query or want to know how it works join 👇👇
-### <a href="https://t.me/indianbot_official"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
+Join my Channel
+### <a href="https://t.me/Royal_Giveaway"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
 
 
-
-## FORK AT YOUR OWN RISK !
 ## Don't Forget To Give A Star ⭐
 ### Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ninjanaveen/ninja-userbot)
 
 
 ## GET STRING SESSION FROM REPL RUN 
